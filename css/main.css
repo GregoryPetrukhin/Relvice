@@ -71,7 +71,7 @@ body {
 }
 @media (max-width:479px) {
     .header__menu {
-        margin: 0 0 0 20px;
+        margin: 0 0 0 15px;
     }
 }
 .header__logo {
