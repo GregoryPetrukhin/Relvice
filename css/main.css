@@ -51,7 +51,7 @@ body {
     min-height: 104px;
     align-items: center;
 }
-@media (max-width:479px) {
+@media (max-width:414px) {
     .header__container  {
         min-height: 70px;
     }
